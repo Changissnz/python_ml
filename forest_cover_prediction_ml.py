@@ -2,11 +2,11 @@
 Compares algorithmic pipelines used to train forest-cover-type-prediction dataset
 
 ABOUT DATA
-Data attributed to Kaggle. Note that the test*.csv files do not contain
-output values. This data was originally used for competition, and those
-files constitute the test criteria.
+Data attributed to Kaggle. In the folder `forest-cover-type-prediction`, the test*.csv
+files have been removed. These files do not contain output values because the data
+was originally used for Kaggle's competition scoring purposes.
 
-Method below uses only the training file for both training and test samples. 
+Method below uses only the training file for both training and test samples.
 
 ABOUT ALGORITHM
 Preliminary attempt to construct and train a classifier used to predict the data found
